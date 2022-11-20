@@ -1,6 +1,6 @@
 ### Hello World! Me chamo Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, atualmente estou focado em desenvolvimento front-end com as tecnlogias #HTML5, #CSS3, #JavaScript e #ReactJS! Fique à vontade para acompanhar meu desenvolvimento e dar dicas, sugestões em meu projeto! 👋😁
 
-
+##  
 
 <div align="center">
   <a href="https://github.com/RodrigoBSouza">
