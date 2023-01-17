@@ -1,4 +1,6 @@
-## Hello World! Me chamo Rodrigo, sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, atualmente estou focado em desenvolvimento web front-end com as tecnlogias #HTML5, #CSS3, #JavaScript e #ReactJS! Fique à vontade para acompanhar meu desenvolvimento e dar dicas e sugestões em meus projetos! 👋😁
+## Hello World! 
+
+Me chamo Rodrigo, seja bem vindo ao meu GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie, atualmente estou focado em desenvolvimento web front-end com as tecnlogias #HTML5, #CSS3, #JavaScript e #ReactJS! Fique à vontade para acompanhar meu desenvolvimento e dar dicas e sugestões em meus projetos! 👋😁
 
 ##
 
@@ -17,7 +19,7 @@
  
  <br>
  
-  ### Caso queira me contatar, pode me enviar um email ou se conectar comigo pelo LinkedIn:
+  ### Caso queira me contatar, me envie um email ou se conecte comigo pelo LinkedIn:
  
 <div> 
   <a href = "mailto:rodrigbsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
